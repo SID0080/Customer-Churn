@@ -184,5 +184,5 @@ It demonstrates how data can be used to not only **understand churn** but active
 
 ## 👤 Author
 
-**Harsh Vardhan Singh**
+**Siddharth Singh**
 Engineering Student | Data Analytics Enthusiast
